@@ -138,10 +138,10 @@ Points with similar residuals to current support vectors are likely near the ε-
 
 ## Authors
 
-**Jhoan Delgado** — Facultad de Ingeniería, Diseño y Ciencias Aplicadas, Universidad Icesi, Cali, Colombia
+**Jhoan Delgado** — Faculty of Engineering, Design and Applied Sciences, Universidad Icesi, Cali, Colombia
 `jhoan.delgado@u.icesi.edu.co`
  
-**Anibal Sosa** — Departamento de Ciencias Físicas, Exactas, y Energía, Universidad Icesi, Cali, Colombia
+**Anibal Sosa** — Department of Physical, Exact and Energy Sciences, Universidad Icesi, Cali, Colombia
 `uasosa@icesi.edu.co`
  
 **M. D. Gonzalez-Lima** — Department of Mathematics, University of Puerto Rico at Rio Piedras, San Juan, Puerto Rico
