@@ -6,7 +6,7 @@ Implementation and statistical validation of a subsampling algorithm for SVR tha
 
 This repository accompanies the paper:
 
-> **[AUTHORS PLACEHOLDER]** (2025). *An Implementation of a Subsampling Algorithm for Support Vector Regression.* Applied and Industrial Mathematics in Colombia — Extended Abstracts, Springer.
+> **Jhoan Delgado, Anibal Sosa, and M. D. Gonzalez-Lima** (2026). *An Implementation of a Subsampling Algorithm for Support Vector Regression.* Applied and Industrial Mathematics in Colombia — Extended Abstracts, Springer.
 
 ---
 
