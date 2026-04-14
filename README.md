@@ -32,8 +32,8 @@ SVRSubsample/
 │   └── svr_residual_subsample.py      # Core algorithm (SVRSubsampleOptimizer)
 │
 ├── Notebooks/
-│   ├── multi_run_experiment.ipynb     # 5-run statistical validation
-│   └── visualizer.ipynb               # Plot generation (mean ± std bands)
+│   ├── Statistical Tests Friedman SVR Paper.ipynb     # 5-run statistical validation
+│   └── Plots Subsampling.ipynb        # Plot generation (mean ± std bands)
 │
 ├── Results/
 │   ├── all_runs_raw.csv               # Raw results — one row per (n, seed, criterion)
@@ -138,11 +138,11 @@ Points with similar residuals to current support vectors are likely near the ε-
 
 ## Authors
 
-**Jhoan Delgado** — Faculty of Engineering, Design and Applied Sciences, Universidad Icesi, Cali, Colombia
+**Jhoan Delgado** — Facultad Barberi de Ingeniería, Diseño y Ciencias Aplicadas, Universidad Icesi, Cali 70033, Colombia
 `jhoan.delgado@u.icesi.edu.co`
  
-**Anibal Sosa** — Department of Physical, Exact and Energy Sciences, Universidad Icesi, Cali, Colombia
+**Anibal Sosa** — Departamento de Ciencias Físicas, Exactas, y Energía, Facultad Barberi de Ingeniería, Diseño y Ciencias Aplicadas, Universidad Icesi, Cali 70033, Colombia
 `uasosa@icesi.edu.co`
  
-**M. D. Gonzalez-Lima** — Department of Mathematics, University of Puerto Rico at Rio Piedras, San Juan, Puerto Rico
+**M. D. Gonzalez-Lima** — Department of Mathematics, University of Puerto Rico at Rio Piedras, San Juan 00925, Puerto Rico
 `maria.gonzalez168@upr.edu`
