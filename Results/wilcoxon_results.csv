@@ -1,0 +1,4 @@
+test,statistic,p_value
+residual_speedup_gt_1,1020.0,3.893774191965349e-12
+spatial_speedup_gt_1,1020.0,3.893774191965349e-12
+residual_faster_than_spatial,729.0,0.008101711976593151
