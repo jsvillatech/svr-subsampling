@@ -1,3 +1,5 @@
+# SVRSubsample
+
 **Residual-based subsampling for scalable Support Vector Regression (SVR)**
 
 Implementation and statistical validation of a subsampling algorithm for SVR that extends the SVM classification framework of [Camelo et al.](https://link.springer.com/article/10.1007/s10479-015-1956-8) to the regression setting, replacing its spatial nearest-neighbor selection with a residual-based criterion — selecting candidate points based on similarity of prediction residuals rather than Euclidean distance. This makes the method more robust in high-dimensional feature spaces where distance metrics become unreliable.
